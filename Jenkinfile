@@ -2,3 +2,6 @@ pipeline {
 }
 // added some comment 
 // other comment 
+
+tools {
+}
